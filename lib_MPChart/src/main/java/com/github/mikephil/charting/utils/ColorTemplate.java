@@ -55,6 +55,23 @@ public class ColorTemplate {
             rgb("#2ecc71"), rgb("#f1c40f"), rgb("#e74c3c"), rgb("#3498db")
     };
 
+    public static final int[] CHECKLIST_STATUS_COLORS = {
+            Color.rgb(94, 209, 252), Color.rgb(254, 206, 181), Color.rgb(150, 223, 174)
+    };
+
+//    public static final int CHECKLIST_STATUS_0 = Color.rgb(94, 209, 252);
+//    public static final int CHECKLIST_STATUS_1 = Color.rgb(254, 206, 181);
+//    public static final int CHECKLIST_STATUS_3 = Color.rgb(150, 223, 174);
+
+    public static final int[] INSPECTION_STATUS_COLORS = {
+            rgb("#FA9A18"), rgb("#66CC76"), rgb("#FF6666"), rgb("#34B9FC")
+    };
+    public static final int[] INSPECTION_CHECKLIST_TYPE_COLORS = {
+            rgb("#FB9A17"), rgb("#00AA53"), rgb("#0792D6"), rgb("#0741D6"),
+            rgb("#EB07C6"), rgb("#F04141"), rgb("#CAE32D"), rgb("#09D442"),
+            rgb("#07D6D6")
+    };
+
     public static final int[] PIECHART_COLORS = {
             Color.rgb(254, 41, 68), Color.rgb(86, 99, 255), Color.rgb(252, 212, 79),
             Color.rgb(21, 220, 199), Color.rgb(  24, 188, 255), Color.rgb( 44, 255, 91),
