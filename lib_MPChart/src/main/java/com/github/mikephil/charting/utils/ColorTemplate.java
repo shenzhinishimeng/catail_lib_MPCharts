@@ -72,6 +72,12 @@ public class ColorTemplate {
             rgb("#07D6D6")
     };
 
+    public static final int[] SAFETY_PTW_TYPE_COLORS = {
+            rgb("#528DCC"), rgb("#29C939"), rgb("#258B2F"), rgb("#BB2929"),
+            rgb("#E2641C"), rgb("#4650AD"), rgb("#E8E251"), rgb("#E16097"),
+            rgb("#14BDA8"), rgb("#7B266D")
+    };
+
     public static final int[] PIECHART_COLORS = {
             Color.rgb(254, 41, 68), Color.rgb(86, 99, 255), Color.rgb(252, 212, 79),
             Color.rgb(21, 220, 199), Color.rgb(  24, 188, 255), Color.rgb( 44, 255, 91),
